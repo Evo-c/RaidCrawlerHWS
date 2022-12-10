@@ -1,5 +1,8 @@
-# RaidCrawler
+# RaidCrawlerHWS
 ![Version](https://img.shields.io/github/v/release/Evo-c/RaidCrawlerHWS?label=latest%20release)
+![Workflow](https://github.com/Evo-c/RaidCrawlerHWS/actions/workflows/dotnet-desktop.yml/badge.svg)
+
+The latest compiled release can be downloaded [here](https://github.com/Evo-c/RaidCrawlerHWS/actions) by selecting artifacts under the latest workflow run.
 
 [sys-botbase](https://github.com/olliz0r/sys-botbase) client Raid Viewer for Pokémon Scarlet and Violet.
 
